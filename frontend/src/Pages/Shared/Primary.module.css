@@ -1,0 +1,16 @@
+.middlebar {
+    background-color: aliceblue;
+    width: 40vw;
+    height: 100%;
+    padding: 0;
+}
+
+.middlebar ul {
+    list-style: none;
+}
+
+.middlebar a {
+    text-decoration: none;
+    color: black;
+    font-size: 19px;
+}
